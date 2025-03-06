@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { Deepgram } from '@deepgram/sdk';
 
-const deepgramApiKey = process.env.DEEPGRAM_API_KEY;
+const deepgramApiKey = process.env.NEXT_PUBLIC_DEEPGRAM_API_KEY;
 const deepgram = new Deepgram(deepgramApiKey);
 
 export async function POST(request: Request) {
