@@ -1,4 +1,4 @@
-## Call Center Training Game
+# Call Center Training Game
 
 View this project on [Github](https://github.com/searleja/CallCenterGame)
 
