@@ -1,4 +1,6 @@
-# Call Center Training Game
+## Call Center Training Game
+
+View this project on [Github](https://github.com/searleja/CallCenterGame)
 
 An interactive web application that simulates call center interactions using AI-powered speech recognition and synthesis.
 
